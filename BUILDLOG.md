@@ -14,3 +14,4 @@ This file will be used to track the build untill considered stable **v1.0.0**
     - Added name description and some scripts to make version control easier
 - [Updated] composer.json
     - Updated package details & author
+- removed default readme content
