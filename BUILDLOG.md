@@ -15,3 +15,8 @@ This file will be used to track the build untill considered stable **v1.0.0**
 - [Updated] composer.json
     - Updated package details & author
 - removed default readme content
+- Fully updated main readme
+- Added setup for CicleCi Test integration
+- Added Licence for docs
+- Updated README badges
+- Refractored CircleCi config.yml for easier understanding and readbility
