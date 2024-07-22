@@ -27,4 +27,5 @@ This file will be used to track the build untill considered stable **v1.0.0**
     - @emotion/react | React Styling Library
     - @emotion/styled | Library to attatch react styles
     - @fontsource/roboto | Roboto font used for MUI
-    - @mui/icons-material | Material icons used for MUI
+    - @mui/icons-material | Material icons used for
+- Updated styles imports for roboto font
