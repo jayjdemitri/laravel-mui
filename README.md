@@ -3,12 +3,15 @@
 <h1 align="center">Laravel MUI</h1>
 <p align="center">A Laravel Skeleton Application</p>
 
+<div align="center">
+
 [![CircleCI][circle-ci-shield]][circle-ci-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -22,6 +25,4 @@
 [stars-url]: https://github.com/jayjdemitri/laravel-mui/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [issues-url]: https://github.com/jayjdemitri/laravel-mui/issues
-[license-shield]: https://img.shields.io/github/license/jayjdemitri/laravel-mui.svg?style=for-the-badge
-[license-url]: https://github.com/jayjdemitri/laravel-mui/blob/master/LICENSE
 
