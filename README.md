@@ -2,7 +2,9 @@
 
 <h1 align="center">Laravel MUI</h1>
 <p align="center">
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/jayjdemitri/laravel-mui/tree/main.svg)](https://dl.circleci.com/status-badge/redirect/gh/jayjdemitri/laravel-mui/tree/main)
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/jayjdemitri/laravel-mui/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/jayjdemitri/laravel-mui/tree/main)
+
 </p>
 <p align="center">A Laravel Skeleton Application</p>
 
