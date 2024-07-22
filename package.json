@@ -1,6 +1,6 @@
 {
     "name": "laravel-mui",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "A Laravel Skeleton Application",
     "private": true,
     "type": "module",
