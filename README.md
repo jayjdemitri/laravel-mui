@@ -3,8 +3,7 @@
 <h1 align="center">Laravel MUI</h1>
 <p align="center">A Laravel Skeleton Application</p>
 
-[![CircleCI][cicle-ci-shield]][cicle-ci-url]
-
+[![CircleCI][circle-ci-shield]][circle-ci-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -13,7 +12,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[circle-ci-sheild]: https://dl.circleci.com/status-badge/img/gh/jayjdemitri/laravel-mui/tree/main.svg?style=svg
+[circle-ci-shield]: https://dl.circleci.com/status-badge/img/gh/jayjdemitri/laravel-mui/tree/main.svg?style=svg
 [circle-ci-url]: https://dl.circleci.com/status-badge/redirect/gh/jayjdemitri/laravel-mui/tree/main
 
 <!-- MARKDOWN LINKS & IMAGES -->
