@@ -29,3 +29,16 @@ This file will be used to track the build untill considered stable **v1.0.0**
     - @fontsource/roboto | Roboto font used for MUI
     - @mui/icons-material | Material icons used for
 - Updated styles imports for roboto font
+
+## Updating components
+
+That would now be the project all setup and ready to use next I will
+
+- Test my theory using the welcome page as test
+- Remove all default content styles and components
+- Rewrite all components and layouts
+- better seperate the welcome page
+- Add new layout templates
+    - empty
+    - sticky-footer?
+- Implement new layouts in custom docs page ?
