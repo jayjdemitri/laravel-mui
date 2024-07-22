@@ -12,11 +12,8 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[circle-ci-shield]: https://dl.circleci.com/status-badge/img/gh/jayjdemitri/laravel-mui/tree/main.svg?style=shield
+[circle-ci-shield]: https://img.shields.io/circleci/build/github/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [circle-ci-url]: https://dl.circleci.com/status-badge/redirect/gh/jayjdemitri/laravel-mui/tree/main
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [contributors-url]: https://github.com/jayjdemitri/laravel-mui/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/jayjdemitri/laravel-mui.svg?style=for-the-badge
