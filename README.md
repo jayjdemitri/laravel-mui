@@ -23,5 +23,5 @@
 [issues-shield]: https://img.shields.io/github/issues/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [issues-url]: https://github.com/jayjdemitri/laravel-mui/issues
 [license-shield]: https://img.shields.io/github/license/jayjdemitri/laravel-mui.svg?style=for-the-badge
-[license-url]: https://github.com/jayjdemitri/laravel-mui/blob/master/LICENSE.txt
+[license-url]: https://github.com/jayjdemitri/laravel-mui/blob/master/LICENSE
 
