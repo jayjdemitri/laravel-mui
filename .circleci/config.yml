@@ -55,6 +55,7 @@ jobs:
             - node_modules
 
       # prepare the database
+      - run: yarn run build
       - run: touch storage/testing.sqlite
       - run: php -r "file_exists('.env') || copy('.env.example', '.env');"
       - run: php artisan key:generate --ansi
