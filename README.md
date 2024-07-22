@@ -4,27 +4,28 @@
 <p align="center">A Laravel Skeleton Application</p>
 
 [![CircleCI][cicle-ci-shield]][cicle-ci-url]
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [circle-ci-sheild]: https://dl.circleci.com/status-badge/img/gh/jayjdemitri/laravel-mui/tree/main.svg?style=svg
 [circle-ci-url]: https://dl.circleci.com/status-badge/redirect/gh/jayjdemitri/laravel-mui/tree/main
-[contributors-shield]: https://img.shields.io/github/contributors/jasonjdemitri/laravel-mui.svg?style=for-the-badge
-[contributors-url]: https://github.com/jasonjdemitri/laravel-mui/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jasonjdemitri/laravel-mui.svg?style=for-the-badge
-[forks-url]: https://github.com/jasonjdemitri/laravel-mui/network/members
-[stars-shield]: https://img.shields.io/github/stars/jasonjdemitri/laravel-mui.svg?style=for-the-badge
-[stars-url]: https://github.com/jasonjdemitri/laravel-mui/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jasonjdemitri/laravel-mui.svg?style=for-the-badge
-[issues-url]: https://github.com/jasonjdemitri/laravel-mui/issues
-[license-shield]: https://img.shields.io/github/license/jasonjdemitri/laravel-mui.svg?style=for-the-badge
-[license-url]: https://github.com/jasonjdemitri/laravel-mui/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jasonjdemitri
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/jayjdemitri/laravel-mui.svg?style=for-the-badge
+[contributors-url]: https://github.com/jayjdemitri/laravel-mui/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jayjdemitri/laravel-mui.svg?style=for-the-badge
+[forks-url]: https://github.com/jayjdemitri/laravel-mui/network/members
+[stars-shield]: https://img.shields.io/github/stars/jayjdemitri/laravel-mui.svg?style=for-the-badge
+[stars-url]: https://github.com/jayjdemitri/laravel-mui/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jayjdemitri/laravel-mui.svg?style=for-the-badge
+[issues-url]: https://github.com/jayjdemitri/laravel-mui/issues
+[license-shield]: https://img.shields.io/github/license/jayjdemitri/laravel-mui.svg?style=for-the-badge
+[license-url]: https://github.com/jayjdemitri/laravel-mui/blob/master/LICENSE.txt
 
