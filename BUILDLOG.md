@@ -20,3 +20,6 @@ This file will be used to track the build untill considered stable **v1.0.0**
 - Added Licence for docs
 - Updated README badges
 - Refractored CircleCi config.yml for easier understanding and readbility
+- Added `concurrently` as npm config
+- Updated npm scripts with pretest to run build a test dev:watch command
+- Added mui deps
