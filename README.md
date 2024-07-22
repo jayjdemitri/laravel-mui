@@ -12,7 +12,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[circle-ci-shield]: https://dl.circleci.com/status-badge/img/gh/jayjdemitri/laravel-mui/tree/main.svg?style=svg
+[circle-ci-shield]: https://dl.circleci.com/status-badge/img/gh/jayjdemitri/laravel-mui/tree/main.svg?style=shield
 [circle-ci-url]: https://dl.circleci.com/status-badge/redirect/gh/jayjdemitri/laravel-mui/tree/main
 
 <!-- MARKDOWN LINKS & IMAGES -->
