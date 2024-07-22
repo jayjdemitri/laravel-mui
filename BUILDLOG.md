@@ -23,3 +23,8 @@ This file will be used to track the build untill considered stable **v1.0.0**
 - Added `concurrently` as npm config
 - Updated npm scripts with pretest to run build a test dev:watch command
 - Added mui deps
+    - @mui/material | Base Mui Library
+    - @emotion/react | React Styling Library
+    - @emotion/styled | Library to attatch react styles
+    - @fontsource/roboto | Roboto font used for MUI
+    - @mui/icons-material | Material icons used for MUI
