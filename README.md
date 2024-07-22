@@ -3,6 +3,8 @@
 <div align="center">
   <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
   <a href="https://mui.com/core/" rel="noopener" target="_blank"><img width="150" height="133" src="https://mui.com/static/logo.svg" alt="Material UI logo"></a>
+</div>
+
 
 <h3 align="center">Laravel MUI</h3>
 
@@ -143,21 +145,21 @@ Project Link: [https://github.com/jayjdemitri/laravel-mui](https://github.com/ja
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[circle-ci-shield]: https://img.shields.io/circleci/build/github/jayjdemitri/laravel-mui.svg
+[circle-ci-shield]: https://img.shields.io/circleci/build/github/jayjdemitri/laravel-mui.svg?style=plastic
 [circle-ci-url]: https://dl.circleci.com/status-badge/redirect/gh/jayjdemitri/laravel-mui/tree/main
-[contributors-shield]: https://img.shields.io/github/contributors/jayjdemitri/laravel-mui.svg
+[contributors-shield]: https://img.shields.io/github/contributors/jayjdemitri/laravel-mui.svg?style=plastic
 [contributors-url]: https://github.com/jayjdemitri/laravel-mui/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jayjdemitri/laravel-mui.svg
+[forks-shield]: https://img.shields.io/github/forks/jayjdemitri/laravel-mui.svg?style=plastic
 [forks-url]: https://github.com/jayjdemitri/laravel-mui/network/members
-[stars-shield]: https://img.shields.io/github/stars/jayjdemitri/laravel-mui.svg
+[stars-shield]: https://img.shields.io/github/stars/jayjdemitri/laravel-mui.svg?style=plastic
 [stars-url]: https://github.com/jayjdemitri/laravel-mui/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jayjdemitri/laravel-mui.svg
+[issues-shield]: https://img.shields.io/github/issues/jayjdemitri/laravel-mui.svg?style=plastic
 [issues-url]: https://github.com/jayjdemitri/laravel-mui/issues
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: https://github.com/jayjdemitri/laravel-mui/blob/main/LICENSE
 
-[React.js]: https://img.shields.io/badge/React-20232A&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20&logo=laravel&logoColor=white
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
