@@ -145,21 +145,21 @@ Project Link: [https://github.com/jayjdemitri/laravel-mui](https://github.com/ja
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[circle-ci-shield]: https://img.shields.io/circleci/build/github/jayjdemitri/laravel-mui.svg?style=social
+[circle-ci-shield]: https://img.shields.io/circleci/build/github/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [circle-ci-url]: https://dl.circleci.com/status-badge/redirect/gh/jayjdemitri/laravel-mui/tree/main
-[contributors-shield]: https://img.shields.io/github/contributors/jayjdemitri/laravel-mui.svg?style=social
+[contributors-shield]: https://img.shields.io/github/contributors/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [contributors-url]: https://github.com/jayjdemitri/laravel-mui/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jayjdemitri/laravel-mui.svg?style=social
+[forks-shield]: https://img.shields.io/github/forks/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [forks-url]: https://github.com/jayjdemitri/laravel-mui/network/members
-[stars-shield]: https://img.shields.io/github/stars/jayjdemitri/laravel-mui.svg?style=social
+[stars-shield]: https://img.shields.io/github/stars/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [stars-url]: https://github.com/jayjdemitri/laravel-mui/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jayjdemitri/laravel-mui.svg?style=social
+[issues-shield]: https://img.shields.io/github/issues/jayjdemitri/laravel-mui.svg?style=for-the-badge
 [issues-url]: https://github.com/jayjdemitri/laravel-mui/issues
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=social
+[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge
 [license-url]: https://github.com/jayjdemitri/laravel-mui/blob/main/LICENSE
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=social&logo=laravel&logoColor=white
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
