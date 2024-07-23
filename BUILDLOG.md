@@ -32,6 +32,58 @@ This file will be used to track the build untill considered stable **v1.0.0**
 
 ## Updating components
 
+- Removed obsolete circleci backup config
+- Removed welcome page default content
+- played with mui in the welcome page
+- Created test EmptyLayout
+- Removed all components
+- Emptied all layout Content
+- Emptied all page content
+- Emptied all partials
+- Updated app.blade.php and removed last of the styles and cdn for figtree font
+- Removed call in tailwind.config for figtree font 
+
+
+
+```
+components
+    ApplicationLogo
+    Checkbox
+    DangerButton
+    Dropdown
+    InputError
+    InputLabel
+    Modal
+    NavLink
+    PrimaryButton
+    ResponsiveNavLink
+    SecondaryButton
+    TextInput
+layouts
+    AuthenticatedLayout
+    GuestLayout
+pages
+    Auth
+        ConfirmPassword
+        ForgotPassword
+        Login
+        Register
+        ResetPassword
+        VerifyEmail
+    Profile
+        Partials
+            DeleteUserForm
+            UpdatePasswordForm
+            UpdateProfileInformationForm
+        Edit
+    Dashboard
+    Welcome
+```
+
+
+
+
+
 That would now be the project all setup and ready to use next I will
 
 - Test my theory using the welcome page as test
