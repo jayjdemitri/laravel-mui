@@ -30,19 +30,11 @@ This file will be used to track the build untill considered stable **v1.0.0**
     - @mui/icons-material | Material icons used for
 - Updated styles imports for roboto font
 
-## Updating components
+## Updating components/content
 
-- Removed obsolete circleci backup config
-- Removed welcome page default content
-- played with mui in the welcome page
-- Created test EmptyLayout
-- Removed all components
-- Emptied all layout Content
-- Emptied all page content
-- Emptied all partials
-- Updated app.blade.php and removed last of the styles and cdn for figtree font
-- Removed call in tailwind.config for figtree font 
+Stepped back had a think most will never see the mess that exsisted before this commit
 
+- Removed Everything in the resources/js folder except app and bootstrap (Commited here)
 
 
 ```
@@ -79,18 +71,3 @@ pages
     Dashboard
     Welcome
 ```
-
-
-
-
-
-That would now be the project all setup and ready to use next I will
-
-- Test my theory using the welcome page as test
-- Remove all default content styles and components
-- Rewrite all components and layouts
-- better seperate the welcome page
-- Add new layout templates
-    - empty
-    - sticky-footer?
-- Implement new layouts in custom docs page ?
