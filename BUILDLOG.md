@@ -34,7 +34,10 @@ This file will be used to track the build untill considered stable **v1.0.0**
 
 Stepped back had a think most will never see the mess that exsisted before this commit
 
-- Removed Everything in the resources/js folder except app and bootstrap (Commited here)
+- Removed Everything in the resources/js folder except app and bootstrap (Re-Commited here)
+- Updated react folder structure
+- Restored Most of the page .tsx files creating a very simple template to display page name and call the needed head
+- Went through all the controllers correcting calls the used to render `Auth/<PAGENAME>` that now only render from a single level
 
 
 ```
