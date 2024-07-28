@@ -1,19 +1,19 @@
-# BUILDLOG 
+# BUILDLOG
 
 This file will be used to track the build untill considered stable **v1.0.0**
 
 ## Project Setup
 
 - After an error in a previous demo build we have made this from laravel global instance
-    - `laravel new laravel-mui`
-        - `breeze`
-        - `react`
-        - `typescript`
-        - `phpunit`
+  - `laravel new laravel-mui`
+    - `breeze`
+    - `react`
+    - `typescript`
+    - `phpunit`
 - [Updated] package.json
-    - Added name description and some scripts to make version control easier
+  - Added name description and some scripts to make version control easier
 - [Updated] composer.json
-    - Updated package details & author
+  - Updated package details & author
 - removed default readme content
 - Fully updated main readme
 - Added setup for CicleCi Test integration
@@ -23,11 +23,11 @@ This file will be used to track the build untill considered stable **v1.0.0**
 - Added `concurrently` as npm config
 - Updated npm scripts with pretest to run build a test dev:watch command
 - Added mui deps
-    - @mui/material | Base Mui Library
-    - @emotion/react | React Styling Library
-    - @emotion/styled | Library to attatch react styles
-    - @fontsource/roboto | Roboto font used for MUI
-    - @mui/icons-material | Material icons used for
+  - @mui/material | Base Mui Library
+  - @emotion/react | React Styling Library
+  - @emotion/styled | Library to attatch react styles
+  - @fontsource/roboto | Roboto font used for MUI
+  - @mui/icons-material | Material icons used for
 - Updated styles imports for roboto font
 
 ## Updating components/content
@@ -38,9 +38,36 @@ Stepped back had a think most will never see the mess that exsisted before this 
 - Updated react folder structure
 - Restored Most of the page .tsx files creating a very simple template to display page name and call the needed head
 - Went through all the controllers correcting calls the used to render `Auth/<PAGENAME>` that now only render from a single level
+  - Current Pages Are
+    - ConfirmPassword
+    - Dashboard
+    - ForgotPassword
+    - Login
+    - Register
+    - ResetPassword
+    - VerifyEmail
+    - Welcome
+- Created Empty Layouts
+  - AuthenticatedLayout
+  - EmptyLayout
+  - GuestLayout
+  - StickyFooterLayout
+  - CenteredLayout ? Will be added : if needed
+- Created Empty Components
+  - ThemeSwitcher.tsx
+  - ResponsiveAppBar.tsx
+- Created ThemeContext a simple wrap around that will change colour pallet between light and dark mode, since we are on a laravel base we have chosen to theme red to match
+- Updated all of the empty layouts to now include the wrapper
+- For the time being updated all pages to use the empty layout page to test dark mode (this is temp)
+- Added ESLint for more consistent better quality code and to make sure im coding better
+- Added prettier for prettier code formating
+- Updated eslint.config with rules that work for ts
+  - Updated again to user jsx runtime instead of default recommended from react plugin
+  - Updated again to add vendor a public build dirs
+- Removed unused import of defaultTheme from tailwind config
+- Updated global.d.ts to use const instead of var
 
-
-```
+```sh
 components
     ApplicationLogo
     Checkbox
