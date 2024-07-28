@@ -54,7 +54,7 @@ jobs:
       # Install npm deps
       - run: 
           name: "Installing NPM Deps"
-          command: npm install
+          command: npm install --force
       # Cache npm deps
       - save_cache:
           key: node-v1-{{ checksum "package.json" }}

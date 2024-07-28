@@ -66,6 +66,21 @@ Stepped back had a think most will never see the mess that exsisted before this 
   - Updated again to add vendor a public build dirs
 - Removed unused import of defaultTheme from tailwind config
 - Updated global.d.ts to use const instead of var
+- Updated themeContext
+  - Removed our light and dark themes to constants to clean up the code
+  - Updated theme constant so that useMemo uses create theme based on the new constants
+  - Updated the initial state of mode to
+    - check localstorage for preset and use if found
+    - check os for preference setting preset and using if found
+    - default to light if none of the above found
+  - Updated switchColourMode function
+    - first it will work our next mode from previous state
+    - next it will update this as preset in localstorage
+    - before them updating the component state
+- Documented all code in themeContext
+- Added temp clear storage button for playing with in welcome page
+- Updated theme switcher to implement dark/light mode switching
+- Updated circleci config to add force flag to npm install comand due to new eslint dep
 
 ```sh
 components
