@@ -81,6 +81,7 @@ Stepped back had a think most will never see the mess that exsisted before this 
 - Added temp clear storage button for playing with in welcome page
 - Updated theme switcher to implement dark/light mode switching
 - Updated circleci config to add force flag to npm install comand due to new eslint dep
+- Added basic offcanvas responsive topbar will work on it as the project progresses
 
 ```sh
 components

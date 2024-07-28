@@ -1,9 +1,8 @@
-import ThemeSwitcher from '@/Components/ThemeSwitcher';
 import EmptyLayout from '@/Layouts/EmptyLayout';
 import { Head } from '@inertiajs/react';
-import { Button } from '@mui/material';
+import { Box, Button, Container } from '@mui/material';
 
-const clearLocal = ()=>{
+const clearLocal = () => {
     console.log('Clearing local Storage')
     localStorage.clear()
 }
@@ -12,12 +11,16 @@ const Welcome = () => {
     const title = 'Welcome';
     return (
         <EmptyLayout>
-            <Head title={title} />
-            {title} Page
-            <ThemeSwitcher></ThemeSwitcher>
-            <Button href={route('login')}>Login</Button>
+            <Container>
+                <Box>
+                    <Head title={title} />
+                    {title} Page
 
-            <Button onClick={clearLocal}>Clear LocalStorage</Button>
+                    <Button href={route('login')}>Login</Button>
+                    <Button onClick={clearLocal}>Clear LocalStorage</Button>
+
+                </Box>
+            </Container>
         </EmptyLayout>
     )
 }
