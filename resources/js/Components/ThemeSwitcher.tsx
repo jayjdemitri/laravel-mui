@@ -16,7 +16,7 @@ const ThemeSwitcher = () => {
                     p: 1
                 }}
                 size="large"
-                color="inherit"
+                color="primary"
             >
                 {theme.palette.mode === "dark" ? (
                     <LightModeOutlined />

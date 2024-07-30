@@ -82,6 +82,10 @@ Stepped back had a think most will never see the mess that exsisted before this 
 - Updated theme switcher to implement dark/light mode switching
 - Updated circleci config to add force flag to npm install comand due to new eslint dep
 - Added basic offcanvas responsive topbar will work on it as the project progresses
+- Decided to make everything flat for the momment and then componentise after
+  - cleared new nav
+  - cleared welcome page content
+- So after a few hour messing around I have a very basic close but not there format to the welcome page. 
 
 ```sh
 components
