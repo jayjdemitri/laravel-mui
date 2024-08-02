@@ -17,10 +17,10 @@ const lightTheme = {
 // palette values for dark mode
 const darkTheme = {
     primary: red,
-    background: {
-        default: '#1c0000',
-        paper: '#1c0000',
-    }
+    // background: {
+    //     default: '#1c0000',
+    //     paper: '#1c0000',
+    // }
 }
 
 // Define our theme contect type

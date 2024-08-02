@@ -85,7 +85,14 @@ Stepped back had a think most will never see the mess that exsisted before this 
 - Decided to make everything flat for the momment and then componentise after
   - cleared new nav
   - cleared welcome page content
-- So after a few hour messing around I have a very basic close but not there format to the welcome page. 
+- So after a few hour messing around I have a very basic close but not there format to the welcome page.
+  - Cleaned up old deps
+- Added 2 new pages
+  - home
+    - Updated layout to empty
+  - demo
+    - Updated layout to empty
+- Updated routing
 
 ```sh
 components
