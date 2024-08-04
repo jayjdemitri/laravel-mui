@@ -94,6 +94,12 @@ Stepped back had a think most will never see the mess that exsisted before this 
     - Updated layout to empty
 - Updated routing
 
+### NOTE
+
+At this point im pretty sure ive got MUI and react to the point where i can refractor the code i have to better effect so will commit here. Reclear the pages and start creating the content from scratch again. Starting with the layouts and navigation.
+
+- Navigation
+
 ```sh
 components
     ApplicationLogo
